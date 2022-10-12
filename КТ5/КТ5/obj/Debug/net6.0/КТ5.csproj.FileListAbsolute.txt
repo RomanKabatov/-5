@@ -1,0 +1,15 @@
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\bin\Debug\net6.0\КТ5.exe
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\bin\Debug\net6.0\КТ5.deps.json
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\bin\Debug\net6.0\КТ5.runtimeconfig.json
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\bin\Debug\net6.0\КТ5.dll
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\bin\Debug\net6.0\КТ5.pdb
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.csproj.AssemblyReference.cache
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.AssemblyInfoInputs.cache
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.AssemblyInfo.cs
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.csproj.CoreCompileInputs.cache
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.dll
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\refint\КТ5.dll
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.pdb
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\КТ5.genruntimeconfig.cache
+C:\Users\Dimitriq\source\repos\КТ5\КТ5\obj\Debug\net6.0\ref\КТ5.dll
